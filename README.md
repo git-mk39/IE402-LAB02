@@ -26,4 +26,5 @@
 
 Có thể deploy cục bộ trên máy cá nhân, **chạy trực tiếp từ file `index.html`** hay dùng extension **Live Server trong VS Code**
 
-## Screenshot: Inprogress...
+## Screenshot:
+(Inprogress...)
