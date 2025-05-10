@@ -21,6 +21,7 @@
 - Với thư mục **json**: Chỉ thêm vào có thêm các polygon dạng đặc biệt như đường cong hay mang tính trang trí
 - Với thư mục **geojson**: Tạo file GEOJSON mới, thêm dữ liệu vào như các file trước đó
   &nbsp;
+  &nbsp;
   **Sau khi thêm dữ liệu, cần import file .json hay .geojson vào script.js**
 
 ## Deploy
