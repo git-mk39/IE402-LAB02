@@ -1,4 +1,4 @@
-# IE402-LAB01
+# IE402-LAB02
 
 - Bài thực hành LAB02
 - Môn: IE402.P21 - Thông Tin Địa Lý 3 Chiều
